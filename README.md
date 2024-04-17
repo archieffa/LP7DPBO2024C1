@@ -19,7 +19,7 @@ Tambahkan sebuah GUI Form baru yang ditampilkan di awal program (sebelum JFrame 
 
 Program ini memiliki dua JFrame, yaitu JFrame MainMenu untuk memulai game dan JFrame App yang merupakan JFrame dari game itu sendiri. Jika ingin nge-run program ini, maka file yang di-run adalah file MainMenu karena file tersebut menjadi awal program.
 
-# ALUR PROGRAM
+# ALUR PROGRAM 
 
 - User dapat menekan tombol GO! untuk memulai game.
 - Cara memainkan gamenya adalah user menekan tombol spasi pada keyboard untuk menggerakkan bird agar dapat melewati sepasang pipa tanpa menabrak/menyentuh pipa-pipa tersebut.

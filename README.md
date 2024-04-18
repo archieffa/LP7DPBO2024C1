@@ -26,7 +26,7 @@ Program ini memiliki dua JFrame, yaitu JFrame MainMenu untuk memulai game dan JF
 - Permainan berhenti (Game Over) jika:
     - Bird menabrak pipa atas ataupun pipa bawah.
     - Bird jatuh ke batas bawah jendela game.
-- User dapat me-restart game dengan menekan tombol ‘R’ pada keyboard.
+- User dapat me-restart game dengan menekan tombol ‘R’ pada keyboard setelah menekan tombol 'OK'.
 
 # DOKUMENTASI
 
